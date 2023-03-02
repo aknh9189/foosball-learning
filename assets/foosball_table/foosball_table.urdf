@@ -21,13 +21,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/1-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/1-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/1-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/1-bar-centered.obj_team_1" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -41,13 +41,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/2-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/2-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/2-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/2-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -61,13 +61,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/5-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/5-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/5-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/5-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -81,13 +81,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/3-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/3-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/3-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/3-bar-centered_team_1.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -104,13 +104,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/1-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/1-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/1-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/1-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -124,13 +124,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/2-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/2-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/2-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/2-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -144,13 +144,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/5-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/5-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/5-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/5-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
@@ -164,13 +164,13 @@
     <visual>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/3-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/3-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </visual>
     <collision>
       <origin xyz="0.0 0.0 0.0"/>
       <geometry>
-        <mesh filename="meshes/3-bar-centered.obj" scale="1 1 1"/>
+        <mesh filename="meshes/3-bar-centered_team_2.obj" scale="1 1 1"/>
       </geometry>
     </collision>
     <inertial>
