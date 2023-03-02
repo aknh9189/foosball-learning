@@ -30,6 +30,10 @@
         <mesh filename="meshes/1-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
   <link name="empty_2_bar_team_1"/>
@@ -46,6 +50,10 @@
         <mesh filename="meshes/2-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
   <link name="empty_5_bar_team_1"/>
@@ -62,6 +70,10 @@
         <mesh filename="meshes/5-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
   <link name="empty_3_bar_team_1"/>
@@ -78,6 +90,10 @@
         <mesh filename="meshes/3-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
 
@@ -97,6 +113,10 @@
         <mesh filename="meshes/1-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
   <link name="empty_2_bar_team_2"/>
@@ -113,6 +133,10 @@
         <mesh filename="meshes/2-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
   <link name="empty_5_bar_team_2"/>
@@ -129,6 +153,10 @@
         <mesh filename="meshes/5-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
   <link name="empty_3_bar_team_2"/>
@@ -145,6 +173,10 @@
         <mesh filename="meshes/3-bar-centered.obj" scale="1 1 1"/>
       </geometry>
     </collision>
+    <inertial>
+      <mass value="0.7638"/>
+      <inertia ixx="0.099" ixy="-0.000001283" ixz="0.000000003289" iyy="0.0" iyz="0.00004499" izz="0.099"/>
+    </inertial>
   </link>
 
 <joint name="goalie_team_1_prismatic_joint" type="prismatic">
